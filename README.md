@@ -1,2 +1,2 @@
-# DiwaliSalesAnalysis
-Python_Project_01
+**Python_Project**
+DiwaliSalesAnalysis_01
